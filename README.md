@@ -42,7 +42,7 @@ Para replicar el análisis:
 
 | Carpeta | Contenido |
 | :--- | :--- |
-| `notebooks/` | Código fuente en Python (`ETL_Analisis_SLA_Ti.ipynb`) con todo el proceso de ETL y las consultas SQL. |
+| `notebooks/` | Código fuente en Python (`ETL_Analisis_SLA_Ti.ipynb`) con todo el proceso de ETL y las consultas SQL, y la base de datos SQLite (`SoporteTI_DB.db`). |
 | `data/raw/` | Datos originales sin procesar (`usuarios.csv`, `tickets.csv`). |
 | `data/processed/` | Archivo limpio y resultado del *pipeline* (`analisis_ti_processed.csv`), listo para ser consumido por Power BI. |
 | `reports/` | Archivo de Power BI (`Dashboard_Ejecutivo_SLA_TI.pbix`). |

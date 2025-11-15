@@ -1,0 +1,11 @@
+Categoria,Departamento,TotalTickets,TicketsFueraSLA,PorcentajeFueraSLA
+Software,Recursos Humanos,1,1,100.0
+Acceso,IT,1,1,100.0
+Hardware,Ventas,2,1,50.0
+Acceso,Finanzas,2,1,50.0
+Hardware,Operaciones,3,1,33.33
+Acceso,Ventas,4,1,25.0
+Software,Marketing,2,0,0.0
+Software,Finanzas,2,0,0.0
+Red,IT,2,0,0.0
+Software,Operaciones,1,0,0.0

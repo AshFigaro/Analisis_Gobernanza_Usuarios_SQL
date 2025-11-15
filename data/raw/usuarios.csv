@@ -1,0 +1,21 @@
+UsuarioID,NombreCompleto,Rol,Departamento,Activo,UltimoLogin
+U001,Ashley Toloza,Ingeniero,IT,TRUE,2025-11-14
+U002,Francisca Soto,Analista,Finanzas,TRUE,2025-11-13
+U003,Pedro Gómez,Gerente,Ventas,TRUE,2025-11-12
+U004,Camila Rojas,Asistente,Marketing,TRUE,2025-11-10
+U005,Andrés Pérez,Técnico,Operaciones,TRUE,2025-11-11
+U006,Sofía Díaz,Analista,Recursos Humanos,TRUE,2025-11-09
+U007,Jorge Núñez,Contador,Finanzas,TRUE,2025-11-08
+U008,María Pizarro,Vendedor,Ventas,TRUE,2025-11-07
+U009,Ricardo Vega,Asistente,Marketing,FALSE,2024-05-01
+U010,Laura Castro,Técnico,IT,TRUE,2025-11-14
+U011,Javier Muñoz,Ingeniero,Operaciones,TRUE,2025-11-13
+U012,Elena Rivas,Analista,Finanzas,FALSE,2023-01-20
+U013,Luis Torres,Gerente,Ventas,TRUE,2025-11-10
+U014,Marta Silva,Asistente,Marketing,TRUE,2025-11-11
+U015,Felipe Guzmán,Técnico,Operaciones,TRUE,2025-11-09
+U016,Ignacio Soto,Analista,Finanzas,TRUE,2025-11-08
+U017,Paula Leiva,Vendedor,Ventas,TRUE,2025-11-07
+U018,Cristian Peña,Asistente,Recursos Humanos,TRUE,2025-11-06
+U019,Valentina Cruz,Contador,Finanzas,TRUE,2025-11-05
+U020,Esteban Tapia,Técnico,IT,TRUE,2025-11-04
